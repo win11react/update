@@ -1,19 +1,19 @@
 {
-  "name": "v0.0.1",
+  "name": "v0.0.2",
   "notes": "Test version",
   "pub_date": "2020-06-22T19:25:57Z",
   "platforms": {
     "darwin": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY1QzY4RkFENDQ3RDY2RDEKUldUUlpuMUVyWS9HWlY2RVVlTlU3OHpOSThOQUN1Vi95VWxvVFZ1dEYzZUxUUlJPWGdYMDFuRWsK",
-      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.1.0/android11-react.app.tar.gz"
+      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.0.2/android11-react.app.tar.gz"
     },
     "linux": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY1QzY4RkFENDQ3RDY2RDEKUldUUlpuMUVyWS9HWlY2RVVlTlU3OHpOSThOQUN1Vi95VWxvVFZ1dEYzZUxUUlJPWGdYMDFuRWsK",
-      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.1.0/android11-react_0.1.0_amd64.AppImage.tar.gz"
+      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.0.2/android11-react_0.0.2_amd64.AppImage.tar.gz"
     },
     "win64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDY1QzY4RkFENDQ3RDY2RDEKUldUUlpuMUVyWS9HWlY2RVVlTlU3OHpOSThOQUN1Vi95VWxvVFZ1dEYzZUxUUlJPWGdYMDFuRWsK",
-      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.1.0/android11-react.x64.msi.zip"
+      "url": "https://github.com/blueedgetechno/androidInReact/releases/download/0.0.2/android11-react.x64.msi.zip"
     }
   }
 }
